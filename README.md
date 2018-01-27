@@ -1,4 +1,4 @@
-#Node.js Backend Google Authentication Template
+# Node.js Backend Google Authentication Template
 
 This template structure allows for server side google authentication with no UI setup, this can be used with React/Angular/Handlebars etc for DOM rendering
 
